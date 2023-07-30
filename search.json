@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "dh140projectblog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nFirst File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nJul 26, 2023\n\n\nYour Name\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Introduction\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJul 29, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nFirst File\n\n\n\n\n\nTesting Quarto\n\n\n\n\n\n\nJul 26, 2023\n\n\nYour Name\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJul 26, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -12,6 +12,13 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/test.html",
+    "href": "posts/test.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Data Exploration\n\n\nAnalysis"
   },
   {
     "objectID": "posts/welcome/index.html",
